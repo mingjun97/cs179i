@@ -1,0 +1,5 @@
+[submodule "normal"]
+    path = frontend/normal
+    url = https://github.com/mingjun97/cs179i.git
+    branch = normal
+
